@@ -4,7 +4,7 @@ import { setContext } from 'apollo-link-context';
 import App from './App';
 
 const httpLink = createHttpLink({
-  uri: 'https://grl.sabarishshankar.repl.co',
+  uri: 'https://xuqqb.sse.codesandbox.io/',
 });
 
 // kind of a middleware to add authorization headers to API calls
